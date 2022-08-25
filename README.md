@@ -13,7 +13,10 @@ https://github.com/FabricMC/fabric
 Modding with fabric - 
 https://www.youtube.com/watch?v=IPUW8odk3yY&list=WL&index=2
 https://www.youtube.com/watch?v=SqMGHoBOeYY&list=PLbOPi5L7V78LUzaRqm5KJ0GQFr1XGvc3d
+important
+https://www.youtube.com/watch?v=KXDXnkv7ZFM&t=626s
 
 
 BlockBench for models, textures, animations -
 https://www.youtube.com/watch?v=k1g2KWK59no&list=PLv04_vWy6OUPxxH04zH2aP_omhcy279bO&index=9
+https://www.youtube.com/watch?v=fdo_E61vVlw
